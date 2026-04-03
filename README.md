@@ -80,12 +80,12 @@ These are the steps that worked for this prototype. You may need to adjust measu
 ### 1. Remove the top plastic piece
 Take off the plastic piece on the top of the holder.
 
-_Add reference photos here._
+![Adapter1](https://github.com/user-attachments/assets/bd89a61f-ab26-4669-b011-b6853946582b)
 
 ### 2. Remove the middle foam piece
 Take off the foam piece from the middle of the holder.
 
-_Add reference photos here._
+<img width="1063" height="630" alt="Adapter2" src="https://github.com/user-attachments/assets/24694d5f-ddf5-489e-a061-23701aad847c" />
 
 ### 3. Trim the springs
 Use wire cutters to remove approximately **3/4 inch** from the springs.
@@ -95,7 +95,7 @@ This reduces resistance and made the holder easier to use in this build.
 - Remove more or less as needed for your setup.
 - The measurement above is simply what worked for me.
 
-_Add before/after photos here._
+<img width="712" height="752" alt="Adapter3" src="https://github.com/user-attachments/assets/5119c756-67d2-4e64-87fd-dd86b2e258aa" />
 
 ### 4. Optional surface prep
 Optionally sand:
@@ -117,6 +117,8 @@ Before use, confirm that:
 - the adapter is firmly attached
 - the mounted device sits in the intended position
 - the setup is stable during therapy tasks
+
+<img width="772" height="582" alt="Adapter 4" src="https://github.com/user-attachments/assets/d33f4f7a-9f2d-4a5b-af67-e93f689cbf85" />
 
 ---
 
