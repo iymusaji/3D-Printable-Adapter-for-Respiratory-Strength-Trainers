@@ -53,6 +53,55 @@ This repository is intended to share:
 
 ---
 
+## Usage Notes
+
+This adapter was designed to support round therapy devices such as EMST and IMST trainers by mounting them to a hands-free holder.
+
+Because therapy devices, holder styles, and client needs can vary, users should review fit, positioning, and tolerance before clinical use. Adjustments may be needed for different hardware or patient presentations.
+
+**_Safety and Clinical Disclaimer_
+**
+This project is a prototype adaptation intended to support accessibility and clinical creativity. It is not a regulated medical device and has not been formally tested for universal clinical use.
+
+Users are responsible for:
+
+evaluating safety and suitability for their setting
+confirming secure assembly before each use
+using clinical judgment when introducing the device in therapy
+monitoring client comfort, positioning, and tolerance
+
+Do not use a damaged, unstable, or poorly fitted setup.
+
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+
+Under this license, others may:
+
+share the material
+remix, adapt, and build upon it
+
+Under the following conditions:
+
+Attribution — credit must be given to the original creator
+NonCommercial — use must be noncommercial
+ShareAlike — adaptations must be distributed under the same license
+
+For the full license text, see:
+CC BY-NC-SA 4.0
+
+## Acknowledgments
+
+This project was developed through collaboration between a student and an engineer, with prototype use piloted through local community partner organizations.
+
+Special thanks to the clinicians, clients, and community partners who supported early testing and feedback.
+
+Contributing
+
+Suggestions, improvements, and noncommercial adaptations are welcome. If you modify this design, please provide attribution and share your adapted version under the same license terms.
+
+---
+
 ## Materials Needed
 
 ### Required
