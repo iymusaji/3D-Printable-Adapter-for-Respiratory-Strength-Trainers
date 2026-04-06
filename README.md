@@ -7,6 +7,8 @@ This project was developed to improve access for individuals with mobility, moto
 
 ---
 ## 3D Model Images
+<img width="1352" height="1013" alt="3d adapter 1" src="https://github.com/user-attachments/assets/d116b745-9b72-41ed-881b-337538f28d5b" />
+<img width="1355" height="1017" alt="3D adapter 2" src="https://github.com/user-attachments/assets/ccfd1391-7530-4421-8947-f59eb0112d0b" />
 
 
 ## Project Summary
@@ -128,12 +130,10 @@ Suggestions, improvements, and noncommercial adaptations are welcome. If you mod
 ## Harmonica Holder Modification Instructions
 
 These are the steps that worked for this prototype. You may need to adjust measurements slightly depending on the specific harmonica holder used.
-![Adapter1](https://github.com/user-attachments/assets/bd89a61f-ab26-4669-b011-b6853946582b)
 
 ### 1. Remove the top plastic piece
 Take off the plastic piece on the top of the holder.
 <img width="1001" height="536" alt="adapter1" src="https://github.com/user-attachments/assets/82156d54-7ca4-4369-880e-5129e176cea8" />
-
 
 ### 2. Remove the middle foam piece
 Take off the foam piece from the middle of the holder.
