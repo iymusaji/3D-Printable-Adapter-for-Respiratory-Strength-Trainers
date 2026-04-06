@@ -1,10 +1,13 @@
 # 3D-Printable-Adapter-for-Respiratory-Strength-Trainers
+<img width="1024" height="1536" alt="person wearing device" src="https://github.com/user-attachments/assets/aeb2e84e-d81b-49e2-b39c-ad9a7801f3fe" />
 
 A simple 3D-printed adapter designed to attach to a hands-free harmonica holder so round therapy devices, such as EMST and IMST trainers, can be positioned in front of a client’s mouth during therapy tasks.
 
 This project was developed to improve access for individuals with mobility, motor, or strength impairments, including stroke survivors and people with progressive, degenerative, neurological, or other complex motor conditions.
 
 ---
+## 3D Model Images
+
 
 ## Project Summary
 
@@ -125,11 +128,12 @@ Suggestions, improvements, and noncommercial adaptations are welcome. If you mod
 ## Harmonica Holder Modification Instructions
 
 These are the steps that worked for this prototype. You may need to adjust measurements slightly depending on the specific harmonica holder used.
+![Adapter1](https://github.com/user-attachments/assets/bd89a61f-ab26-4669-b011-b6853946582b)
 
 ### 1. Remove the top plastic piece
 Take off the plastic piece on the top of the holder.
+<img width="1001" height="536" alt="adapter1" src="https://github.com/user-attachments/assets/82156d54-7ca4-4369-880e-5129e176cea8" />
 
-![Adapter1](https://github.com/user-attachments/assets/bd89a61f-ab26-4669-b011-b6853946582b)
 
 ### 2. Remove the middle foam piece
 Take off the foam piece from the middle of the holder.
