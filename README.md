@@ -1,7 +1,7 @@
 # 3D-Printable-Adapter-for-Respiratory-Strength-Trainers
-<img width="1024" height="1536" alt="person wearing device" src="https://github.com/user-attachments/assets/aeb2e84e-d81b-49e2-b39c-ad9a7801f3fe" />
 
 A simple 3D-printed adapter designed to attach to a hands-free harmonica holder so round therapy devices, such as EMST and IMST trainers, can be positioned in front of a client’s mouth during therapy tasks.
+<img width="1024" height="1536" alt="person wearing device" src="https://github.com/user-attachments/assets/aeb2e84e-d81b-49e2-b39c-ad9a7801f3fe" />
 
 This project was developed to improve access for individuals with mobility, motor, or strength impairments, including stroke survivors and people with progressive, degenerative, neurological, or other complex motor conditions.
 
