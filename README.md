@@ -47,6 +47,25 @@ This project may be useful for:
 
 ---
 
+## Acknowledgments
+
+This project was innovated, developed, and tested by **Olivia Kerr**, speech-language pathology graduate clinician.
+
+The project was completed with supervision from **Imran Musaji, PhD, CCC-SLP**, Assistant Professor in the Department of Communication Sciences and Disorders at Wichita State University, and with design and 3D-modeling collaboration from **Paul Herring**, Professor in Plastics Engineering Technology at Pittsburg State University.
+
+The prototype was piloted through local community partner organizations including the Wichita State University Evelyn Hendren Cassat Speech-Language Pathology Clinica and the Speech Swallowing Voice Center.
+
+Special thanks to the clinicians, clients, and community partners who supported early testing and feedback.
+
+If citing this work for academic or creative commons license purposes, use the following attribution.
+
+Suggestions, improvements, and noncommercial adaptations are welcome. If you modify this design, please provide attribution and share your adapted version under the same license terms.
+
+## Suggested Citation
+
+Kerr, O., Herring, P., & Musaji, I. (2026). *Hands-free 3D-Printable Harmonica-Mount Adapter for Respiratory-Strength-Trainers* [3D design files and project documentation]. GitHub. https://github.com/iymusaji/3D-Printable-Adapter-for-Respiratory-Strength-Trainers
+---
+
 ## What This Repository Includes
 
 This repository is intended to share:
@@ -94,16 +113,6 @@ ShareAlike — adaptations must be distributed under the same license
 
 For the full license text, see:
 CC BY-NC-SA 4.0
-
-## Acknowledgments
-
-This project was developed through collaboration between a student and an engineer, with prototype use piloted through local community partner organizations.
-
-Special thanks to the clinicians, clients, and community partners who supported early testing and feedback.
-
-Contributing
-
-Suggestions, improvements, and noncommercial adaptations are welcome. If you modify this design, please provide attribution and share your adapted version under the same license terms.
 
 ---
 
