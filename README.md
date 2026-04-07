@@ -10,7 +10,7 @@ This project was developed to improve access for individuals with mobility, moto
 <img width="1352" height="1013" alt="3d adapter 1" src="https://github.com/user-attachments/assets/d116b745-9b72-41ed-881b-337538f28d5b" />
 <img width="1355" height="1017" alt="3D adapter 2" src="https://github.com/user-attachments/assets/ccfd1391-7530-4421-8947-f59eb0112d0b" />
 
-
+---
 ## Project Summary
 
 This project was developed through a collaboration between speech-language pathology student clinician Olivia Kerr and engineer XXX to design a simple, practical adapter for use with hands-free harmonica mounts.
