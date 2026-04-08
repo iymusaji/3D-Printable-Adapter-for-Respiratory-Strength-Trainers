@@ -64,6 +64,7 @@ Suggestions, improvements, and noncommercial adaptations are welcome. If you mod
 ## Suggested Citation
 
 Kerr, O., Herring, P., & Musaji, I. (2026). *Hands-free 3D-Printable Harmonica-Mount Adapter for Respiratory-Strength-Trainers* [3D design files and project documentation]. GitHub. https://github.com/iymusaji/3D-Printable-Adapter-for-Respiratory-Strength-Trainers
+
 ---
 
 ## What This Repository Includes
@@ -99,6 +100,8 @@ monitoring client comfort, positioning, and tolerance
 
 Do not use a damaged, unstable, or poorly fitted setup.
 
+---
+
 ## License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
@@ -126,6 +129,8 @@ CC BY-NC-SA 4.0
 -   There are many models available. We used "OriGlam Harmonica Holder Neck Holder Stand, Mouth Organ Metal Frame Adjustable for 10 Hole Harmonica" for $8.98 off Amazon
 - Wire cutters or jewelry cutters
 - Super glue
+
+### 3D Printing
 - 3D printed adapter components (the prototype was printed on an Ender -3 V2)
 -   The adapter was printed using standard PLA polymer fillament.
 -   Build time for both parts was less than 45 minutes.
