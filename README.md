@@ -13,11 +13,11 @@ This project was developed to improve access for individuals with mobility, moto
 ---
 ## Project Summary
 
-This project was developed through a collaboration between speech-language pathology student clinician Olivia Kerr and engineer XXX to design a simple, practical adapter for use with hands-free harmonica mounts.
+This project developed a simple, practical 3d-printable adapter for use with hands-free harmonica mounts.
 
 The adapter allows round respiratory therapy devices, such as **EMST** and **IMST** trainers, to be held in place without requiring the client to independently position or support the device. This can make therapy tasks more accessible for individuals with physical impairments that affect upper extremity use, posture, endurance, coordination, or strength.
 
-The student printed the prototype and piloted it with clients through local community partner organizations.
+The inventor (Olivia Kerr) printed the prototype and piloted it with clients through local community partner organizations.
 
 The design is being shared so that speech-language pathologists, respiratory therapists, and other clinicians or support teams can print and adapt similar tools for **noncommercial use**, provided attribution is given and any adaptations are shared under the same license.
 
@@ -70,8 +70,11 @@ Kerr, O., Herring, P., & Musaji, I. (2026). *Hands-free 3D-Printable Harmonica-M
 
 This repository is intended to share:
 
-- the 3D printable adapter design
+- the 3D printable adapter parts (top and bottom)
+  -EMSTL2.STL
+  -EMSTU2.STL
 - instructions for modifying a harmonica holder
+- A video showing assembly with a sample EMST device installed
 - information about materials and assembly
 - licensing details for reuse and adaptation
 
@@ -123,8 +126,11 @@ CC BY-NC-SA 4.0
 -   There are many models available. We used "OriGlam Harmonica Holder Neck Holder Stand, Mouth Organ Metal Frame Adjustable for 10 Hole Harmonica" for $8.98 off Amazon
 - Wire cutters or jewelry cutters
 - Super glue
-- 3D printed adapter components-
--   The cost to print the adapter was approximately XXX using standard XXX polymer fillament.
+- 3D printed adapter components (the prototype was printed on an Ender -3 V2)
+-   The adapter was printed using standard PLA polymer fillament.
+-   Build time for both parts was less than 45 minutes.
+ <img width="624" height="394" alt="3D Software" src="https://github.com/user-attachments/assets/868d0685-f852-443a-ade4-f5e521da86b9" />
+
 
 ### Adhesives Used in This Prototype
 - **J-B Weld SuperWeld Instant Adhesive** — approximately $5.97 at Walmart
