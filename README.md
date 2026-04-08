@@ -180,7 +180,6 @@ Before use, confirm that:
 - the mounted device sits in the intended position
 - the setup is stable during therapy tasks
 
-<img width="772" height="582" alt="Adapter 4" src="https://github.com/user-attachments/assets/d33f4f7a-9f2d-4a5b-af67-e93f689cbf85" />
 <img width="400" height="624" alt="Final" src="https://github.com/user-attachments/assets/3fe1557c-4722-41b4-902b-f3758c51ab42" />
 
 ---
