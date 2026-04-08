@@ -153,12 +153,7 @@ For the full license text, see:
 
 These are the steps that worked for this prototype. You may need to adjust measurements slightly depending on the specific harmonica holder used.
 
-### 1. Remove the top plastic piece
-Take off the plastic piece on the top of the holder.
 <img width="1001" height="536" alt="adapter1" src="https://github.com/user-attachments/assets/82156d54-7ca4-4369-880e-5129e176cea8" />
-
-### 2. Remove the middle foam piece
-Take off the foam piece from the middle of the holder.
 
 <img width="1063" height="630" alt="Adapter2" src="https://github.com/user-attachments/assets/24694d5f-ddf5-489e-a061-23701aad847c" />
 
