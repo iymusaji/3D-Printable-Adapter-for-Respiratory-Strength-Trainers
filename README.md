@@ -132,7 +132,7 @@ For the full license text, see:
 - Wire cutters or jewelry cutters
 - Super glue
 
-### 3D Printing
+### 3D Printing Note
 - 3D printed adapter components (the prototype was printed on an Ender -3 V2)
 -   The adapter was printed using standard PLA polymer fillament.
 -   Build time for both parts was less than 45 minutes.
@@ -190,23 +190,5 @@ Before use, confirm that:
 
 <img width="400" height="624" alt="Final" src="https://github.com/user-attachments/assets/3fe1557c-4722-41b4-902b-f3758c51ab42" />
 
----
-
-## 3D Printing Notes
-
-Add your printing details here if available, such as:
-
-- printer model
-- filament type
-- layer height
-- infill percentage
-- supports required or not required
-- recommended print orientation
-
-Example:
-
-```text
-Material: PLA
-Layer height: 0.2 mm
 Infill: 20%
 Supports: As needed depending on orientation
