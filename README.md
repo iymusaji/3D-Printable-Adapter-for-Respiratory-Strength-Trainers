@@ -19,7 +19,7 @@ The adapter allows round respiratory therapy devices, such as **EMST** and **IMS
 
 The inventor (Olivia Kerr) printed the prototype and piloted it with clients through local community partner organizations.
 
-The design is being shared so that speech-language pathologists, respiratory therapists, and other clinicians or support teams can print and adapt similar tools for **noncommercial use**, provided attribution is given and any adaptations are shared under the same license.
+The design is being shared so that speech-language pathologists, respiratory therapists, and other clinicians or support teams can print and adapt similar tools for [**noncommercial use**](https://creativecommons.org/licenses/by-nc-sa/4.0/), provided attribution is given and any adaptations are shared under the same license.
 
 ---
 
@@ -60,6 +60,8 @@ Special thanks to the clinicians, clients, and community partners who supported 
 If citing this work for academic or creative commons license purposes, use the following attribution.
 
 Suggestions, improvements, and noncommercial adaptations are welcome. If you modify this design, please provide attribution and share your adapted version under the same license terms.
+
+---
 
 ## Suggested Citation
 
@@ -118,7 +120,7 @@ NonCommercial — use must be noncommercial
 ShareAlike — adaptations must be distributed under the same license
 
 For the full license text, see:
-CC BY-NC-SA 4.0
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
 
